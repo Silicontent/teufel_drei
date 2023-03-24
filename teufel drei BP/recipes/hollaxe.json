@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "teufel:hollaxe"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:netherite_pickaxe"
+      },
+      {
+        "item": "teufel:terminite_pickaxe"
+      },
+      {
+        "item": "teufel:sculken_pickaxe"
+      }
+    ],
+    "result": {
+      "item": "teufel:hollaxe"
+    }
+  }
+}

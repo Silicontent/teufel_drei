@@ -1,0 +1,54 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "teufel:totem_of_dying",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:on_use": {
+                "on_use": {
+                    "event": "teufel:totem_of_dying.die"
+                }
+            },
+            "minecraft:creative_category": {
+                "parent": "items"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:durability": {
+                "max_durability": 1,
+                "damage_chance": {
+                    "min": 1,
+                    "max": 2
+                }
+            },
+            "minecraft:hand_equipped": false,
+            "minecraft:foil": false,
+            "minecraft:icon": {
+                "texture": "totem_of_dying"
+            },
+            "minecraft:display_name": {
+                "value": "Totem of Dying"
+            }
+        },
+        "events": {
+            "teufel:totem_of_dying.die": {
+                "weight": 1,
+                "sequence": [
+                    {
+                        "run_command": {
+                            "command": "clear @s teufel:totem_of_dying 0 1",
+                            "target": "self"
+                        }
+                    },
+                    {
+                        "run_command": {
+                            "command": "kill @s",
+                            "target": "self"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

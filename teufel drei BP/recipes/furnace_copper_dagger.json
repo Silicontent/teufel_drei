@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:furnace_copper_dagger"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "teufel:copper_dagger",
+    "output": "minecraft:copper_ingot"
+  }
+  
+}

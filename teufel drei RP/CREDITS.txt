@@ -1,0 +1,42 @@
+There are quite a lot of textures in Teufel Drei that I took from others on the Internet, as well as a few that are just color-swapped combinations of Minecraft's vanilla textures. Look, I was lazy and I suck at pixel art, okay? Anyways, this file contains all of the credits for each texture that I could remember. Thank you to all of the talented artists who created these textures!
+
+
+BLOCKS
+Short fire textures - IIRC, VanillaTweaks.net
+Frostburn, Hellfire, Sculken, and Terminite Blocks - Minecraft (Netherite Block + Magma Block/Sculk Veins)
+
+WEAPONS AND TOOLS
+Copper Dagger - IIRC, VanillaTweaks.net (color changed and edited)
+Deepslash - EyelessTenshi on PlanetMinecraft (https://www.planetminecraft.com/texture-pack/sculk-tool-set-deep-dark-inspired-weapons-and-tools-16x16-1-19/)
+Ender Sword - Minecraft (color changed and edited)
+Frostblade (original texture) - Terraria (Palladium Sword)
+Frostblade (used texture) - Terraria (original texture + redone blade)
+Höllespitzhacke - Terraria (Nebula Pickaxe)
+Inferno - original texture (edit of Frostblade)
+Obsidian Sword - Minecraft (Diamond Sword)
+Terminus - Terraria (edit of Frostblade, heavily edited Zenith blade)
+Sculken Pickaxe - EyelessTenshi on PlanetMinecraft (mentioned earlier)
+Terminite Pickaxe - Terraria (Gold Pickaxe)
+Teufel - original texture (heavy edit of Inferno)
+Ultimate Hoe - Minecraft (Diamond Hoe)
+
+MATERIALS
+Frostburn Chunk - Minecraft (Raw Copper)
+Frostburn Ingot - Terraria (edit of Hellfire Bar)
+Hellfire Chunk - Minecraft (Raw Copper, edit of Frostburn Chunk)
+Hellfire Ingot - Terraria (Hellstone Bar)
+Essence of Life - Terraria (Soul of Flight)
+Reinforced Stick - Minecraft (Stick)
+Sculken Ingot - Minecraft (Netherite Ingot)
+Terminite Ingot - Terraria (Luminite Bar)
+Ultim Eye - Minecraft (Eye of Ender)
+
+ARMOR (items and model textures)
+Frostburn Helmet, Chestplate, Leggings, and Boots - user on feedback.minecraft.net, edit of Hellfire Armor
+(https://feedback.minecraft.net/hc/en-us/community/posts/360061551352-Molten-Netherite-Gear)
+Hellfire Helmet, Chestplate, Leggings, and Boots - user on feedback.minecraft.net
+(https://feedback.minecraft.net/hc/en-us/community/posts/360061551352-Molten-Netherite-Gear)
+Obsidian Helmet, Chestplate, Leggings, and Boots - Minecraft (Diamond armor)
+
+OTHER
+Totem of & Totem of Dying - idea from u/perfection_uwu and PhoenixSC, sprite from PhoenixSC iirc 

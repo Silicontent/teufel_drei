@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:sculk_ingot_block"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "teufel:sculk_ingot"
+      }
+    },
+    "result": {
+      "item": "teufel:sculk_ingot_block"
+    }
+  }
+}

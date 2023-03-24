@@ -1,0 +1,111 @@
+{
+   "resource_pack_name" : "teufel",
+   "texture_data" : {
+      "obsidian_chestplate": {
+         "textures": "textures/items/obsidian_chestplate"
+      },
+      "obsidian_helmet": {
+         "textures": "textures/items/obsidian_helmet"
+      },
+      "obsidian_leggings": {
+         "textures": "textures/items/obsidian_leggings"
+      },
+      "obsidian_boots": {
+         "textures": "textures/items/obsidian_boots"
+      },
+      "obsidian_sword": {
+         "textures": "textures/items/obsidian_sword"
+      },
+      "ultimate_hoe": {
+         "textures": "textures/items/ultimate_hoe"
+      },
+      "copper_dagger": {
+         "textures": "textures/items/copper_dagger"
+      },
+      "ultim_eye": {
+         "textures": "textures/items/ultim_eye"
+      },
+      "ender_sword": {
+         "textures": "textures/items/ender_sword"
+      },
+      "reinforced_stick": {
+         "textures": "textures/items/reinforced_stick"
+      },
+      "frostburn_chunk": {
+         "textures": "textures/items/frostburn_chunk"
+      },
+      "frostburn_ingot": {
+         "textures": "textures/items/frostburn_ingot"
+      },
+      "frostblade": {
+         "textures": "textures/items/frostblade"
+      },
+      "frostburn_helmet": {
+         "textures": "textures/items/frostburn_helmet"
+      },
+      "frostburn_chestplate": {
+         "textures": "textures/items/frostburn_chestplate"
+      },
+      "frostburn_leggings": {
+         "textures": "textures/items/frostburn_leggings"
+      },
+      "frostburn_boots": {
+         "textures": "textures/items/frostburn_boots"
+      },
+      "hellfire_chunk": {
+         "textures": "textures/items/hellfire_chunk"
+      },
+      "hellfire_ingot": {
+         "textures": "textures/items/hellfire_ingot"
+      },
+      "inferno": {
+         "textures": "textures/items/inferno"
+      },
+      "hellfire_helmet": {
+         "textures": "textures/items/hellfire_helmet"
+      },
+      "hellfire_chestplate": {
+         "textures": "textures/items/hellfire_chestplate"
+      },
+      "hellfire_leggings": {
+         "textures": "textures/items/hellfire_leggings"
+      },
+      "hellfire_boots": {
+         "textures": "textures/items/hellfire_boots"
+      },
+      "life_essence": {
+         "textures": "textures/items/life_essence"
+      },
+      "terminite_ingot": {
+         "textures": "textures/items/terminite_ingot"
+      },
+      "terminus": {
+         "textures": "textures/items/terminus"
+      },
+      "terminite_pickaxe": {
+         "textures": "textures/items/terminite_pickaxe"
+      },
+      "sculk_ingot": {
+         "textures": "textures/items/sculk_ingot"
+      },
+      "deepslash": {
+         "textures": "textures/items/deepslash"
+      },
+      "sculken_pickaxe": {
+         "textures": "textures/items/sculken_pickaxe"
+      },
+      "teufel": {
+         "textures": "textures/items/teufel"
+      },
+      "hollaxe": {
+         "textures": "textures/items/hollaxe"
+      },
+      "totem_of": {
+         "textures": "textures/items/totem_of"
+      },
+      "totem_of_dying": {
+         "textures": "textures/items/totem_of_dying"
+      }
+   },
+   "texture_name" : "atlas.items"
+}

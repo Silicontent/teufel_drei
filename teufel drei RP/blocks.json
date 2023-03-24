@@ -1,0 +1,59 @@
+{
+    "format_version": "1.19.30",
+    "teufel:frostburn_block": {
+        "textures": {
+            "up": "frostburn_block",
+            "down": "frostburn_block",
+            "north": "frostburn_block",
+            "south": "frostburn_block",
+            "east": "frostburn_block",
+            "west": "frostburn_block"
+        },
+        "carried_textures": "frostburn_block",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "netherite"
+    },
+    "teufel:hellfire_block": {
+        "textures": {
+            "up": "hellfire_block",
+            "down": "hellfire_block",
+            "north": "hellfire_block",
+            "south": "hellfire_block",
+            "east": "hellfire_block",
+            "west": "hellfire_block"
+        },
+        "carried_textures": "hellfire_block",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "netherite"
+    },
+    "teufel:terminite_block": {
+        "textures": {
+            "up": "terminite_block",
+            "down": "terminite_block",
+            "north": "terminite_block",
+            "south": "terminite_block",
+            "east": "terminite_block",
+            "west": "terminite_block"
+        },
+        "carried_textures": "terminite_block",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "netherite"
+    },
+    "teufel:sculk_ingot_block": {
+        "textures": {
+            "up": "sculk_ingot_block",
+            "down": "sculk_ingot_block",
+            "north": "sculk_ingot_block",
+            "south": "sculk_ingot_block",
+            "east": "sculk_ingot_block",
+            "west": "sculk_ingot_block"
+        },
+        "carried_textures": "sculk_ingot_block",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "netherite"
+    }
+}

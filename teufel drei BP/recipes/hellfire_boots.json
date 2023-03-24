@@ -1,0 +1,26 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:hellfire_boots"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "XGX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:iron_ingot"
+      },
+      "G": {
+        "item": "teufel:hellfire_ingot"
+      }
+    },
+    "result": {
+      "item": "teufel:hellfire_boots"
+    }
+  }
+}

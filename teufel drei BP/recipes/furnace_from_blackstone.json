@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:furnace_from_blackstone"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X#X",
+      "# #",
+      "X#X"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:blackstone"
+      },
+      "X": {
+        "item": "minecraft:cobbled_deepslate"
+      }
+    },
+    "result": {
+      "item": "minecraft:furnace"
+    },
+    "priority": 2
+  }
+}

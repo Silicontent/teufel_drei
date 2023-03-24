@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:spawn_bee"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "teufel:life_essence"
+      },
+      {
+        "item": "minecraft:honey_bottle"
+      },
+      {
+        "item": "minecraft:beehive"
+      }
+    ],
+    "result": {
+      "item": "minecraft:bee_spawn_egg"
+    }
+  }
+}

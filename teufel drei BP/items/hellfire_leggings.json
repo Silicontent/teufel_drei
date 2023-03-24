@@ -1,0 +1,43 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "teufel:hellfire_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:creative_category": {
+                "parent": "itemGroup.name.leggings"
+            },
+            "minecraft:icon": {
+                "texture": "hellfire_leggings"
+            },
+            "minecraft:display_name": {
+                "value": "Hellfire Leggings"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:enchantable": {
+                "value": 10,
+                "slot": "armor_legs"
+            },
+            "minecraft:armor": {
+                "protection": 5
+            },
+            "minecraft:repairable": {
+                "repair_items": [
+                    {
+                        "items": ["teufel:hellfire_chunk"],
+                        "repair_amount": 50
+                    }
+                ]
+            },
+            "minecraft:wearable": {
+                "dispensable": true,
+                "slot": "slot.armor.legs"
+            },
+            "minecraft:durability": {
+                "max_durability": 681
+            }
+        }
+    }
+}

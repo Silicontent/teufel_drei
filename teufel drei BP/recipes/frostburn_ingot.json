@@ -1,0 +1,22 @@
+{
+  "format_version": "1.18.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:frostburn_ingot"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "teufel:frostburn_chunk"
+      }
+    },
+    "result": [
+      { "item": "teufel:frostburn_ingot" }
+    ]
+  }
+}

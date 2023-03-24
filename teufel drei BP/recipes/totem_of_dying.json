@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:totem_of_dying"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      "MEM",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:redstone_block"
+      },
+      "M": {
+        "item": "minecraft:diamond"
+      },
+      "E": {
+        "item": "teufel:totem_of"
+      }
+    },
+    "result": {
+      "item": "teufel:totem_of_dying"
+    }
+  }
+}

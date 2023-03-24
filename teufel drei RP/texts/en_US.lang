@@ -1,0 +1,106 @@
+﻿death.attack.anvil=%1$s found out that heavy metal going at 38mph hurts. A lot.
+death.attack.arrow=%1$s was 360 no-scoped by %2$s.
+death.attack.arrow.item=%1$s was 360 no-scoped by %2$s using %3$s.
+death.attack.bullet=%1$s was popped by %2$s.
+death.attack.cactus=%1$s managed to die by a cactus.
+death.attack.cactus.player=%1$s managed to die by a cactus while running from %2$s.
+death.attack.drown=%1$s got wet.
+death.attack.drown.player=%1$s got wet with %2$s.
+death.attack.explosion=%1$s was Nagasaki'd.
+death.attack.explosion.player=%1$s smashed hydrogen atoms together with %2$s.
+death.attack.fall=%1$s got Sparta'd.
+death.attack.fallingBlock=%1$s got done in by Minecraft's "great" physics engine.
+death.attack.fireball=%1$s was nuked from above by %2$s.
+death.attack.fireball.item=%1$s was nuked from above by %2$s using %3$s.
+death.attack.fireworks=%1$s became a true 'Murican.
+death.attack.flyIntoWall=%1$s forgot to turn on no-clip and ran face-first into a wall.
+death.attack.generic=%1$s's heart stopped.
+death.attack.indirectMagic=%1$s was drugged by %2$s.
+death.attack.indirectMagic.item=%1$s was drugged by %2$s using %3$s.
+death.attack.inFire=%1$s became kindling.
+death.attack.inFire.player=%1$s became kindling whilst fighting %2$s.
+death.attack.inWall=%1$s realized breathing in solids isn't a great idea for long-term survival.
+death.attack.lava=%1$s wished lava was a cooler guy.
+death.attack.lava.player=%1$s ended it all in lava to escape either %2$s or the IRS.
+death.attack.lightningBolt=%1$s was struck with the might of Zeus, somehow.
+death.attack.magic=%1$s overdosed.
+death.attack.magma=%1$s walked on a hot beach without shoes, then they had a heart attack or something I don't know.
+death.attack.magma.player=%1$s did something really stupid involving a MAGMA block and died due to %2$s.
+death.attack.mob=%1$s was disemboweled by %2$s.
+death.attack.onFire=%1$s didn't start or stop the fire.
+death.attack.onFire.player=%1$s was cooked well-done whilst losing against %2$s.
+death.attack.outOfWorld=%1$s discovered the void floor that exists in Bedrock Edition for some reason.
+death.attack.player=%1$s was team-killed by %2$s.
+death.attack.player.item=%1$s was team-killed by %2$s using %3$s.
+death.attack.spit=%1$s drowned in saliva (yes really) by %2$s.
+death.attack.starve=%1$s joined the rains down in Africa.
+death.attack.thorns=%1$s realized their actions have consequences thanks to %2$s.
+death.attack.thrown=%1$s was battered and hung out to dry by %2$s.
+death.attack.thrown.item=%1$s was battered and hung out to dry by %2$s using %3$s.
+death.attack.trident=%1$s was crucified by %2$s.
+death.attack.wither=%1$s simply ceased. That's it. Nothing funny. They just died.
+death.attack.freeze=%1$s was sent to Siberia.
+death.attack.stalactite=%1$s discovered gravity affects other objects in the world.
+death.attack.stalagmite=%1$s discovered gravity affects them.
+death.fell.accident.generic=%1$s forgot to look down.
+death.fell.accident.ladder=%1$s died. You're probably not going to see this message, so I don't feel like coming up with something funny for it.
+death.fell.accident.vines=%1$s died. You're probably not going to see this message, so I don't feel like coming up with something funny for it.
+death.fell.accident.water=%1$s took a dunk, slipped, and went "kerplunk!"
+death.fell.assist=%1$s's destiny was found six feet under by %2$s.
+death.fell.assist.item=%1$s's destiny found was six feet under by %2$s using %3$s.
+death.fell.finish=%1$s discovered gravity with %2$s.
+death.fell.finish.item=%1$s discovered gravity with %2$s using %3$s.
+death.fell.killer=%1$s discovered gravity.
+
+deathScreen.deleteWorld=actions with consequences
+deathScreen.hardcoreInfo=You cannot respawn in hardcore mode!
+deathScreen.leaveServer=Leave server
+deathScreen.message=skill issue.
+deathScreen.quit=quit like a nerd
+deathScreen.quit.confirm=but why? why would you do that?
+deathScreen.quit.confirmToMainMenuWarning=but why? why would you do that?
+deathScreen.quit.confirmToMainMenuTitleWarning=quit like a nerd?
+deathScreen.quit.secondaryClient=save and leave like a nerd
+deathScreen.quit.secondaryClient.confirmLeaveWarning=you may be saving, but it doesn't excuse your pussy-ness
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=save and leave like a nerd
+deathScreen.respawn=the right choice
+deathScreen.score=useless number
+deathScreen.title=skill issue
+deathScreen.title.hardcore=major skill issue
+deathScreen.titleScreen=quit like a nerd
+
+
+
+item.teufel:frostburn_chunk.name=Frostburn Chunk
+item.teufel:frostburn_ingot.name=Frostburn Ingot
+item.teufel:frostblade.name=Frostblade
+item.teufel:frostburn_helmet.name=Frostburn Helmet
+item.teufel:frostburn_chestplate.name=Frostburn Chestplate
+item.teufel:frostburn_leggings.name=Frostburn Leggings
+item.teufel:frostburn_boots.name=Frostburn Boots
+tile.teufel:frostburn_block.name=Block of Frostburn
+
+item.teufel:hellfire_chunk.name=Hellfire Chunk
+item.teufel:hellfire_ingot.name=Hellfire Ingot
+item.teufel:inferno.name=Inferno
+item.teufel:hellfire_helmet.name=Hellfire Helmet
+item.teufel:hellfire_chestplate.name=Hellfire Chestplate
+item.teufel:hellfire_leggings.name=Hellfire Leggings
+item.teufel:hellfire_boots.name=Hellfire Boots
+tile.teufel:hellfire_block.name=Block of Hellfire
+
+item.teufel:terminite_ingot.name=Terminite Ingot
+tile.teufel:terminite_block.name=Block of Terminite
+item.teufel:terminus.name=Terminus
+item.teufel:terminite_pickaxe.name=Terminite Pickaxe
+
+item.teufel:sculk_ingot.name=Sculken Ingot
+tile.teufel:sculk_ingot_block.name=Block of Sculken
+item.teufel:deepslash.name=Deepslash
+item.teufel:sculken_pickaxe.name=Sculken Pickaxe
+
+item.teufel:teufel_sword.name=Teufel
+item.teufel:hollaxe.name=Höllespitzhacke
+
+item.teufel:totem_of.name=Totem of
+item.teufel:totem_of_dying.name=Totem of Dying

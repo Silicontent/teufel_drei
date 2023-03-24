@@ -1,0 +1,31 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:golden_carrot"
+    },
+
+    "components": {
+      "minecraft:use_duration": 32,
+
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation_modifier": "supernatural",
+        "effects": [
+          {
+            "name": "regeneration",
+            "chance": 0.75,
+            "duration": 5,
+            "amplifier": 0
+          },
+          {
+            "name": "absorption",
+            "chance": 0.2,
+            "duration": 30,
+            "amplifier": 0
+          }
+        ]
+      }
+    }
+  }
+}

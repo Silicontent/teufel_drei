@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:diamond_hoe"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XG",
+      " #",
+      " #"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:diamond"
+      },
+      "G": {
+        "item": "minecraft:diamond_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond_hoe"
+    }
+  }
+}

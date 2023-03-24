@@ -1,0 +1,46 @@
+PATCH NOTES - v1.0.0 - v3.1.0
+- most mobs gain a health and speed boost
+  - some mobs are nerfed to accomodate for some of their new abilities and attacks
+- certain features of many mobs, such as a skeleton's fire-rate or a creeper's blast radius, are altered drastically
+- player now instantly begins drowning underwater and instantly dies upon touching lava
+- almost all passive mobs now become hostile towards the player
+- most livestock (pigs, cows, etc.) now drop their cooked meat variants
+- recipes altered to further make people hate me (ex: many tool and armor recipes require 1 of the respective ore's blocks)
+- ore block recipes altered from 9 to 4 (ex: iron blocks only need 4 ingots to make, only decraft to 4 ingots too)
+- many loot tables for mobs changed to reward players who fight against the buffed enemies
+- many previously uncraftable items made craftable, but the recipes aren't easy to obtain
+- raw and cooked meats give the player cardiovascular disease
+- Wandering Trader trades now made (hopefully) more useful to the player
+- heavily nerfed Ghasts because they suck
+- many mobs in progression (enderman, blazes, etc.) now drop higher quantities of their normal items
+- undead mobs now have a chance to drop Essences of Life, which are used to craft spawn eggs and totems
+
+- added many new items and armor sets to assist the player
+  - below are items from v1 and v2 (Teufel Zwei)
+  - added the Copper Dagger to use as a sturdy starting weapon
+  - added the Reinforced Stick for use in more late-game crafting recipes
+  - added the Obsidian Sword and armor sets
+  - added the Ultim Eye, originally meant to be used as an infinite throwable Ender Eye, now used as a crafting ingredient
+  - added the Ender Sword, a solid weapon made of Ultim Eyes that glows with the Eyes' power
+  - added the Ultimate Hoe, a comedic instakill item that can actually be crafted or purchased, if you really want it
+
+  - below are items from v3
+  - added Hellfire Chunks and Ingots, used in strong mid/late-game weapons and armor
+  - added Frostburn Chunks and Ingots, an ungraded Hellfire used in strong mid/late-game weapons and armor
+  - added Hellfire and Frostburn Armor to act as an alternative to Netherite with some helpful effects
+  - added the Frostblade and Inferno, powerful swords crafted with Frostburn and Hellfire Ingots
+  - added Blocks of Hellfire and Frostburn
+  - added Terminite Ingots, found in End Cities post-Ender Dragon
+  - added the Terminus, a deadly endgame sword forged from Terminite Bars
+  - added the Terminite Pickaxe, a fast endgame pick made from Terminite
+  - added Block of Terminite
+  - added the Sculken Ingot, a mysterious mineral dropped by the formidable Warden
+  - added the Block of Sculken
+  - added the Deepslash, a sculk-themed sword able to slice through any foe
+  - added the Sculken Pickaxe, a wacky sculk-themed pickaxe forged from Sculken Ingots
+  - added the Teufel, the most powerful sword crafted from five different blades
+  - added the Höllespitzhacke, a beastly pickaxe capable of leveling a mountain in minutes
+  - added the Totem, a simple stone statue held by the Evoker or crafted
+  - added the Totem of Dying, created with a Totem when you just can't get enough death
+
+- many, many, many balance adjustments and tweaks made to the new items until they sit decently well in progression

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.18.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:reinforced_stick"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "X#X",
+      "XXX"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "result": {
+      "item": "teufel:reinforced_stick"
+    }
+  }
+}

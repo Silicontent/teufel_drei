@@ -1,0 +1,26 @@
+{
+  "format_version": "1.18.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "teufel:frostburn_chunk"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "teufel:hellfire_chunk"
+      },
+      {
+        "item": "ice"
+      },
+      {
+        "item": "iron_ingot"
+      }
+    ],
+    "result": {
+      "item": "teufel:frostburn_chunk",
+      "count": 1
+    }
+  }
+}

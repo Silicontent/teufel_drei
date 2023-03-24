@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:cooked_porkchop"
+    },
+    
+    "components": {
+      "minecraft:use_duration": 32,
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation_modifier": "good",
+        "effects": [
+          {
+            "name": "slowness",
+            "chance": 0.5,
+            "duration": 5,
+            "amplifier": 0
+          },
+          {
+            "name": "weakness",
+            "chance": 0.25,
+            "duration": 10,
+            "amplifier": 0
+          }
+        ]
+      }
+    }
+  }
+}

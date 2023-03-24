@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:spawn_cow"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "teufel:life_essence"
+      },
+      {
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "minecraft:cooked_beef"
+      }
+    ],
+    "result": {
+      "item": "minecraft:cow_spawn_egg"
+    }
+  }
+}

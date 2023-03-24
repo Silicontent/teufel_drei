@@ -1,0 +1,33 @@
+{
+  "format_version": "1.18.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "teufel:ultimate_hoe"
+    },
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:diamond_hoe"
+      },
+      {
+        "item": "minecraft:nether_star"
+      },
+      {
+        "item": "minecraft:dragon_egg"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:end_crystal"
+      }
+    ],
+    "result": {
+      "item": "teufel:ultimate_hoe"
+    }
+  }
+}

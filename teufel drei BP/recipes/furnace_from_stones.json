@@ -1,0 +1,32 @@
+{
+  "format_version": "1.18.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:furnace_from_stones"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "GAD",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:cobblestone"
+      },
+      "G": {
+        "item": "minecraft:granite"
+      },
+      "D": {
+        "item": "minecraft:diorite"
+      },
+      "A": {
+        "item": "minecraft:andesite"
+      }
+    },
+    "result": {
+      "item": "minecraft:furnace"
+    },
+    "priority": 2
+  }
+}

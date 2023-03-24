@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:spawn_goat"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "teufel:life_essence"
+      },
+      {
+        "item": "minecraft:snowball"
+      },
+      {
+        "item": "minecraft:goat_horn"
+      }
+    ],
+    "result": {
+      "item": "minecraft:goat_spawn_egg"
+    }
+  }
+}

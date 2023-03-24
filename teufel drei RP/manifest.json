@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "what have i done",
+        "name": "Teufel Drei: The Third One (RP)",
+        "uuid": "a36e8cc6-6cc2-4d08-a025-af9500f5f77b",
+        "version": [3, 1, 0],
+        "min_engine_version": [ 1, 19, 70 ]
+    },
+    "modules": [
+        {
+            "description": "what have i done",
+            "type": "resources",
+            "uuid": "772b9aeb-5992-40f2-8e45-512578cdf8c5",
+            "version": [ 3, 1, 0 ]
+        }
+    ]
+}

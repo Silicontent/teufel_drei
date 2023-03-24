@@ -1,0 +1,31 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "what have i done",
+		"name": "Teufel Drei: The Third One (BP)",
+		"uuid": "514110a9-21fc-49cb-9eb2-2dcfa719682e",
+		"version": [3, 1, 0],
+		"min_engine_version": [ 1, 19, 70 ]
+	},
+	"modules": [
+		{
+			"description": "what have i done",
+			"type": "data",
+			"uuid": "173af90f-dfb7-41c5-a0eb-d15f5d858e2d",
+			"version": [ 3, 1, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "a36e8cc6-6cc2-4d08-a025-af9500f5f77b",
+			"version": [ 3, 1, 0 ]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"1.8.4"
+			]
+		}
+	}
+}

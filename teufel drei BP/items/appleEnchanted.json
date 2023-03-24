@@ -1,0 +1,52 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:appleEnchanted"
+    },
+    
+    "components": {
+      "minecraft:hand_equipped": false,
+      "minecraft:stacked_by_data": true,
+      "minecraft:use_duration": 32,
+      "minecraft:foil": true,
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation_modifier": "supernatural",
+        "can_always_eat": true,
+        "effects": [
+          {
+            "name": "regeneration",
+            "chance": 0.5,
+            "duration": 20,
+            "amplifier": 3
+          },
+          {
+            "name": "absorption",
+            "chance": 0.5,
+            "duration": 60, // 2 * 60
+            "amplifier": 2
+          },
+          {
+            "name": "resistance", // damage resistance
+            "chance": 0.5,
+            "duration": 60,
+            "amplifier": 0
+          },
+          {
+            "name": "fire_resistance",
+            "chance": 0.5,
+            "duration": 30,
+            "amplifier": 0
+          },
+          {
+            "name": "wither",
+            "chance": 0.001,
+            "duration": 999,
+            "amplifier": 10
+          }
+        ]
+      }
+    }
+  }
+}

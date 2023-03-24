@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:spawn_blaze"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "teufel:life_essence"
+      },
+      {
+        "item": "minecraft:blaze_rod"
+      },
+      {
+        "item": "minecraft:nether_brick"
+      }
+    ],
+    "result": {
+      "item": "minecraft:blaze_spawn_egg"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:obsidian_chestplate"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "XGX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:obsidian"
+      },
+      "G": {
+        "item": "minecraft:crying_obsidian"
+      }
+    },
+    "result": {
+      "item": "teufel:obsidian_chestplate"
+    }
+  }
+}
