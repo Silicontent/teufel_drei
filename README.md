@@ -6,7 +6,7 @@ This is Teufel Drei: a Minecraft Bedrock add-on that changes most entities, reci
 
 Under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode), this pack may be edited and republished. Honestly, this pack kind of sucks, so go wild! Add whatever you want!
 
-(final note: Teufel Vier is currently WIP. Check back later for potential updates)
+(final note: all version of the Pain Pack from 2-5 are now in [this repository](https://github.com/Silicontent/teufel_collection))
 
 ## Credits
 
